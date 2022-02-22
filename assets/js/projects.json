@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Pineapple Bot",
+      "img": "/assets/img/pineapple.png",
+      "description": "All-in-one Discord bot.",
+      "src": "https://www.Pineapplebot.ga/"
+    },
+    {
+        "title": "Brel's Tech",
+        "img": "/assets/img/brelstech.png",
+        "description": "Website voor een computer bedrijf.",
+        "src": "https://www.brelstech.be/"
+      },
+      {
+          "title": "Harmoniseer",
+          "img": "/assets/img/brelstech.png",
+          "description": "Website voor een professional organiser.",
+          "src": "https://devbuild.harmoniseer.be"
+        }
+  ]
+}

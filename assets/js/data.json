@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "title": "Pineapple Bot",
+      "img": "/assets/img/pineapple.png",
+      "description": "All-in-one Discord bot.",
+      "src": "https://www.Pineapplebot.ga/"
+    },
+    {
+      "title": "Brel's Tech",
+      "img": "/assets/img/brelstech.png",
+      "description": "Website voor een computer bedrijf.",
+      "src": "https://www.brelstech.be/"
+    },
+    {
+      "title": "Harmoniseer",
+      "img": "/assets/img/Harmoniseerweb.png",
+      "description": "Website voor een professional organiser.",
+      "src": "https://devbuild.harmoniseer.be"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Merchandiser",
+      "location": "Makro Eke",
+      "description": "Filling the store shelves, helping people at the entrance counter and  working as a cashier. For an 18 year old, this was a great job to get started. ",
+      "timespan": "10/2013 - 08/2021"
+    },
+    {
+      "title": "Multimedia seller and computer expert",
+      "location": "Elektro Van Assche",
+      "description": "In November 2021, I started as a student at a local multimedia store which focuses a lot on giving a great customer experience. My added value is my knowledge about computers, programming and networking.",
+      "timespan": "11/2021- Present"
+    }
+  ],
+  "education": [
+    {
+      "title": "Human Sciences",
+      "location": "Erasmus Atheneum De Pinte",
+      "description": "I graduated from secondary school in 2020, at the start of the Covid-19 pandemic.",
+      "timespan": "09/2014- 06/2020"
+    },
+    {
+      "title": "Applied Computer Sciences",
+      "location": "HOGENT",
+      "description": "In september 2020, I started as a student at HOGENT to study Computer Sciences.",
+      "timespan": "09/2020 - Present"
+    }
+  ],
+  "skills": [
+    {
+      "label": "HTML",
+      "percentage": 85
+    },
+    {
+      "label": "JavaScript",
+      "percentage": 65
+    },
+    {
+      "label": "Design",
+      "percentage": 70
+    }
+  ],
+  "hobbies": "In my free time, I enjoy spending time on my own coding projects and developing my knowledge about coding and programming. When I am away from my keyboard, I like spending time with friends, family and also enjoy a nice ride on my bike."
+}
