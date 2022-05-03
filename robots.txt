@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /index.html
+Allow: /projects.html
+Allow: /cv.html
+Disallow: /contact.html
+
+
+Sitemap: sitemap.xml
